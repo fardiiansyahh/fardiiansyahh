@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @fardiiansyahh
-- 👀 I’m interested in Everything technology
-- 🌱 I’m currently learning SQL and PHP
-- 📫 You can reach me through IG  : @fardiiansyahh
-                              Line : @ardiansyahfar
-                              Email : fardiiansyah23@gmail.com
+Hi, I’m @fardiiansyahh <br>
+I’m interested in Everything technology <br>
+I’m currently learning C, HTML,CSS, SQL and PHP <br>
+You can reach me through IG       : @fardiiansyahh <br>
+                         Line     : @ardiansyahfar <br>
+                         Email    : fardiiansyah23@gmail.com <br>
+                         Linkedin : linkedin.com/in/fardiiansyahh/ <br>
 
 <!---
 fardiiansyahh/fardiiansyahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
